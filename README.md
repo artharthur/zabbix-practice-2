@@ -14,3 +14,6 @@
 
 2. Элемент данных для CPU:
    ![Item CPU](screenshots/item-cpu.png)
+
+3. Элемент данных для RAM:
+   ![Item RAM](screenshots/item-ram.png)
