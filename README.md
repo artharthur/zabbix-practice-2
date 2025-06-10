@@ -12,7 +12,7 @@
 1. Создан шаблон **Template CPU_RAM** в **Data collection → Templates**:  
    ![Template CPU_RAM](screenshots/template-cpu-ram.png)
 
-2. Элемент данных для CPU:
+2. Элемент данных для CPU (ключ `system.cpu.util[,user]`):
    ![Item CPU](screenshots/item-cpu.png)
 
 3. Элемент данных для RAM:
