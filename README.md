@@ -29,3 +29,14 @@
 1. Переименованы хосты:
    ![Hosts Names](screenshots/hosts-names.png)
 
+---
+
+## Задание 3. Привязка шаблонов к хостам
+
+**Решение:**
+
+1. Привязка шаблонов к `ishmakov-am-1`:  
+   ![Bindings 1](screenshots/hosts-bindings-1.png)
+
+2. Привязка шаблонов к `ishmakov-am-2`:  
+   ![Bindings 2](screenshots/hosts-bindings-2.png)
