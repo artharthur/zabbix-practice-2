@@ -17,3 +17,15 @@
 
 3. Элемент данных для RAM:
    ![Item RAM](screenshots/item-ram.png)
+
+---
+
+## Задание 2. Добавление двух хостов
+
+**Задание:**  
+Добавьте в Zabbix два хоста и задайте им имена ishmakov-am-1 и ishmakov-am-2.
+
+**Решение:**
+1. Переименованы хосты:
+   ![Hosts Names](screenshots/hosts-names.png)
+
