@@ -40,3 +40,9 @@
 
 2. Привязка шаблонов к `ishmakov-am-2`:  
    ![Bindings 2](screenshots/hosts-bindings-2.png)
+
+## Задание 4. Кастомный дашборд
+
+**Решение:**
+
+![Dashboard](screenshots/dashboard-4.png)
